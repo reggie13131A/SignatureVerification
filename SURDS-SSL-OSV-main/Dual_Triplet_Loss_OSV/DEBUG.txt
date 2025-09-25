@@ -1,0 +1,225 @@
+Sample 0: Distance = 0.0000, Label = 1
+该sample是图片 彭凝竹-3-5-true.jpg compare to the writer's reference set
+----------------------------------------
+Sample 1: Distance = 0.0003, Label = 0
+该sample是图片 彭凝竹-103-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 2: Distance = 0.0004, Label = 0
+该sample是图片 彭凝竹-103-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 3: Distance = 0.0020, Label = 0
+该sample是图片 彭凝竹-18-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 4: Distance = 0.0004, Label = 0
+该sample是图片 彭凝竹-103-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 5: Distance = 0.0014, Label = 0
+该sample是图片 彭凝竹-18-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 6: Distance = 0.0001, Label = 0
+该sample是图片 彭凝竹-18-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 7: Distance = 0.0003, Label = 0
+该sample是图片 彭凝竹-103-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 8: Distance = 0.0005, Label = 0
+该sample是图片 彭凝竹-18-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 9: Distance = 0.0007, Label = 0
+该sample是图片 彭凝竹-103-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 10: Distance = 0.0010, Label = 0
+该sample是图片 彭凝竹-18-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 11: Distance = 0.0003, Label = 0
+该sample是图片 韩草-44-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 12: Distance = 0.0001, Label = 0
+该sample是图片 韩草-44-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 13: Distance = 0.0003, Label = 0
+该sample是图片 韩草-44-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 14: Distance = 0.0003, Label = 0
+该sample是图片 韩草-42-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 15: Distance = 0.0003, Label = 0
+该sample是图片 韩草-40-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 16: Distance = 0.0000, Label = 0
+该sample是图片 韩草-40-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 17: Distance = 0.0002, Label = 0
+该sample是图片 韩草-42-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 18: Distance = 0.0003, Label = 0
+该sample是图片 韩草-42-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 19: Distance = 0.0003, Label = 0
+该sample是图片 韩草-42-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 20: Distance = 0.0003, Label = 0
+该sample是图片 韩草-44-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 21: Distance = 0.0003, Label = 0
+该sample是图片 韩草-42-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 22: Distance = 0.0001, Label = 0
+该sample是图片 韩草-40-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 23: Distance = 0.0001, Label = 0
+该sample是图片 韩草-40-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 24: Distance = 0.0001, Label = 0
+该sample是图片 韩草-40-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 25: Distance = 0.0001, Label = 0
+该sample是图片 韩草-44-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 26: Distance = 0.0002, Label = 1
+该sample是图片 韩草-66-1-true.jpg compare to the writer's reference set
+----------------------------------------
+Sample 27: Distance = 0.0002, Label = 0
+该sample是图片 姚梧桐-48-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 28: Distance = 0.0010, Label = 0
+该sample是图片 姚梧桐-199-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 29: Distance = 0.0000, Label = 0
+该sample是图片 姚梧桐-10-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 30: Distance = 0.0002, Label = 0
+该sample是图片 姚梧桐-10-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 31: Distance = 0.0001, Label = 0
+该sample是图片 姚梧桐-10-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 32: Distance = 0.0002, Label = 0
+该sample是图片 姚梧桐-10-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 33: Distance = 0.0001, Label = 1
+该sample是图片 姚梧桐-99-3-true.jpg compare to the writer's reference set
+----------------------------------------
+Sample 34: Distance = 0.0001, Label = 0
+该sample是图片 姚梧桐-65-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 35: Distance = 0.0001, Label = 0
+该sample是图片 姚梧桐-65-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 36: Distance = 0.0000, Label = 0
+该sample是图片 姚梧桐-65-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 37: Distance = 0.0001, Label = 0
+该sample是图片 姚梧桐-48-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 38: Distance = 0.0008, Label = 0
+该sample是图片 姚梧桐-199-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 39: Distance = 0.0007, Label = 0
+该sample是图片 姚梧桐-48-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 40: Distance = 0.0001, Label = 0
+该sample是图片 姚梧桐-48-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 41: Distance = 0.0002, Label = 0
+该sample是图片 姚梧桐-65-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 42: Distance = 0.0006, Label = 0
+该sample是图片 姚梧桐-199-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 43: Distance = 0.0000, Label = 0
+该sample是图片 姚梧桐-10-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 44: Distance = 0.0002, Label = 0
+该sample是图片 姚梧桐-48-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 45: Distance = 0.0006, Label = 0
+该sample是图片 姚梧桐-199-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 46: Distance = 0.0002, Label = 0
+该sample是图片 姚梧桐-65-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 47: Distance = 0.0016, Label = 0
+该sample是图片 姚梧桐-199-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 48: Distance = 0.0001, Label = 0
+该sample是图片 崔竹筱-55-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 49: Distance = 0.0010, Label = 0
+该sample是图片 崔竹筱-83-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 50: Distance = 0.0003, Label = 0
+该sample是图片 崔竹筱-83-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 51: Distance = 0.0009, Label = 0
+该sample是图片 崔竹筱-83-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 52: Distance = 0.0000, Label = 0
+该sample是图片 崔竹筱-55-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 53: Distance = 0.0002, Label = 0
+该sample是图片 崔竹筱-31-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 54: Distance = 0.0008, Label = 0
+该sample是图片 崔竹筱-83-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 55: Distance = 0.0009, Label = 0
+该sample是图片 崔竹筱-197-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 56: Distance = 0.0011, Label = 0
+该sample是图片 崔竹筱-197-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 57: Distance = 0.0003, Label = 0
+该sample是图片 崔竹筱-83-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 58: Distance = 0.0009, Label = 0
+该sample是图片 崔竹筱-31-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 59: Distance = 0.0012, Label = 0
+该sample是图片 崔竹筱-197-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 60: Distance = 0.0009, Label = 0
+该sample是图片 崔竹筱-197-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 61: Distance = 0.0001, Label = 0
+该sample是图片 崔竹筱-55-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 62: Distance = 0.0014, Label = 0
+该sample是图片 崔竹筱-197-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 63: Distance = 0.0002, Label = 0
+该sample是图片 崔竹筱-55-2.jpg compare to the writer's reference set
+----------------------------------------
+Sample 64: Distance = 0.0000, Label = 0
+该sample是图片 崔竹筱-55-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 65: Distance = 0.0001, Label = 0
+该sample是图片 崔竹筱-31-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 66: Distance = 0.0003, Label = 0
+该sample是图片 崔竹筱-31-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 67: Distance = 0.0003, Label = 0
+该sample是图片 崔竹筱-31-3.jpg compare to the writer's reference set
+----------------------------------------
+Sample 68: Distance = 0.0000, Label = 1
+该sample是图片 崔竹筱-97-4-true.jpg compare to the writer's reference set
+----------------------------------------
+Sample 69: Distance = 0.0002, Label = 0
+该sample是图片 郑思淼-5-4.jpg compare to the writer's reference set
+----------------------------------------
+Sample 70: Distance = 0.0001, Label = 0
+该sample是图片 郑思淼-93-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 71: Distance = 0.0000, Label = 0
+该sample是图片 郑思淼-5-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 72: Distance = 0.0001, Label = 0
+该sample是图片 郑思淼-93-1.jpg compare to the writer's reference set
+----------------------------------------
+Sample 73: Distance = 0.0000, Label = 0
+该sample是图片 郑思淼-5-5.jpg compare to the writer's reference set
+----------------------------------------
+Sample 74: Distance = 0.0000, Label = 0
+该sample是图片 郑思淼-5-3.jpg compare to the writer's reference set
+----------------------------------------
